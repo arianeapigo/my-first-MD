@@ -2,6 +2,10 @@
 
 ![Visualization of a conversation between a chatbot and a human](https://th.bing.com/th/id/OIP.Z0x1xvmxOmn6UruD_IoI9gHaEO?rs=1&pid=ImgDetMain "Visualization of a conversation between a chatbot and a human")
 
+## Introduction
+
+This report provides an overview of chatbots, their purpose, and their key features. It explores the fundamental aspects that define chatbots, including their applications and examples. Additionally, the report highlights common shortcomings that can negatively impact the user experience, offering insights into what makes a chatbot ineffective. By understanding these elements, readers can gain a deeper appreciation of chatbot technology and its challenges.
+
 *The following is based on personal knowledge without additional research.*
 
 ## What are chatbots?
