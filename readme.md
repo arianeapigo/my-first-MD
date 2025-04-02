@@ -56,7 +56,7 @@ According to [ZDNET](https://www.zdnet.com/article/best-ai-chatbot/#google_vigne
 |[Perplexity.ai](https://www.perplexity.ai/)|Search|Links to sources; access to internet; simple UI|Paid subscription required for GPT-4 access; some irrelevant suggestions|
 |[Jasper](https://www.jasper.ai/)|Business and marketing|Different writing templates; copyediting features; plagiarism checker|Subscription required to try; steep cost|
 
-See the [full article](https://www.zdnet.com/article/best-ai-chatbot/) for more details on the AI chatbots listed above, as well as You.com, Chatsonic, Gemini, Socratic, and HuggingChat.
+See the [full article](https://www.zdnet.com/article/best-ai-chatbot/) for more details on the AI chatbots listed above, as well as [You.com](https://you.com/), [Chatsonic](https://writesonic.com/chat?ref=tuyen19), [Gemini](https://gemini.google.com/), [Socratic](https://www.socratic.com/), and [HuggingChat](https://huggingface.co/chat/).
 
 ## What makes a chatbot bad?
 
@@ -71,6 +71,8 @@ According to [Tech Business News](https://www.techbusinessnews.com.au/blog/why-c
 - time consumption
 
 ### Unfortunate outcomes of chatbot usage
+
+![Chatbots can negatively influence humans](./img/badchatbot.png "Chatbots can negatively influence humans")
 
 [Listverse](https://listverse.com/2025/04/02/ten-disturbing-news-stories-involving-chatbots/) features ten disturbing news stories involving chatbots, including:
 
