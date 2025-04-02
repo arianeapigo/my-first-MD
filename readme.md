@@ -38,6 +38,7 @@ According to [Forbes](https://www.forbes.com/advisor/business/software/what-is-a
 ## What makes a chatbot good?
 
 According to IBM's [chatbot design practices](https://www.ibm.com/think/topics/chatbot-design), a good chatbot:
+
 - features a UI that is **easy to use, responsive, engaging, and reflective of the brand**
 - provide services in the right domain, such as instances where two-way conversations are needed
 - balance short- and long-term business goals
@@ -76,9 +77,9 @@ According to [Tech Business News](https://www.techbusinessnews.com.au/blog/why-c
 - [Man files complaint after ChatGPT falsely claimed he murdered his children](https://youtu.be/uP0E1icYKLw)
 - [Michigan man speaks out after getting threatening message from Google AI chatbot](https://youtu.be/LEEyuFmTaJw)
 - several stories involving Character.ai:
-    - [Digital clones of deceased teenagers Molly Russell and Brianna Ghey appear on Character.AI](https://www.ibtimes.co.uk/digital-clones-deceased-teenagers-molly-russell-brianna-ghey-appear-characterai-1728127)
-    - [AI Chatbot Encourages Teen to Kill Parents Over Screen Time Limits](https://www.youtube.com/watch?v=u9KrjH9PSm0)
-    - [Florida mother files lawsuit against Character.ai over son's death by suicide](https://youtu.be/LLdS1e5c6Ok)
+  - [Digital clones of deceased teenagers Molly Russell and Brianna Ghey appear on Character.AI](https://www.ibtimes.co.uk/digital-clones-deceased-teenagers-molly-russell-brianna-ghey-appear-characterai-1728127)
+  - [AI Chatbot Encourages Teen to Kill Parents Over Screen Time Limits](https://www.youtube.com/watch?v=u9KrjH9PSm0)
+  - [Florida mother files lawsuit against Character.ai over son's death by suicide](https://youtu.be/LLdS1e5c6Ok)
 
 These stories and their frequency demonstrate how chatbots can negatively influence humans as a result of their exact characteristic they receive so much praise for: the ability to simulate human conversation.
 
