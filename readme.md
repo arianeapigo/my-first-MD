@@ -8,7 +8,6 @@
 
 1. [Introduction](#introduction)
 2. [What are chatbots?](#what-are-chatbots)
-    - [Key Features](#key-features)
 3. [What makes a chatbot good?](#what-makes-a-chatbot-good)
     - [The best AI chatbots of 2025](#the-best-ai-chatbots-of-2025)
 4. [What makes a chatbot bad?](#what-makes-a-chatbot-bad)
