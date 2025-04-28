@@ -34,6 +34,8 @@ According to [Forbes](https://www.forbes.com/advisor/business/software/what-is-a
 
 ![Merchat AI](./img/merchatai.png "Merchat AI")
 
+![Ada Health Manager](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/59/56/7959567d-8acc-33f6-19b1-b400b243bad5/aff402ae-bf13-46e1-aca4-7ca7d0202414_6.5_EN_3_1.jpg/460x0w.webp)
+
 ## What makes a chatbot good?
 
 According to IBM's [chatbot design practices](https://www.ibm.com/think/topics/chatbot-design), a good chatbot:
@@ -87,6 +89,10 @@ According to [Tech Business News](https://www.techbusinessnews.com.au/blog/why-c
 These stories and their frequency demonstrate how chatbots can negatively influence humans as a result of their exact characteristic they receive so much praise for: the ability to simulate human conversation.
 
 AI chatbots are constantly improving, but incidents such as the ones listed above are always a possibility. [OpenAI](https://help.openai.com/en/articles/8554982-how-should-i-report-a-gpt) allows users to flag or report GPTs created by other users. Despite the frequency and severity of incidents stemming from Character.AI, the service's UI does not feature any clear reporting features.
+
+## Conclusion
+
+Chatbots have become an integral part of modern technology, offering **convenience and efficiency** in various domains such as customer service, marketing, and healthcare. While they provide numerous benefits, their limitations and potential for harm cannot be ignored. The examples and incidents discussed in this report highlight the importance of **responsible development, ethical considerations, and robust reporting mechanisms** to mitigate risks associated with chatbot usage. As AI technology continues to evolve, striking a **balance between innovation and safety** will be crucial to ensure that chatbots serve as a positive force in society.
 
 ## References
 
