@@ -26,11 +26,11 @@ According to [Forbes](https://www.forbes.com/advisor/business/software/what-is-a
 
 | Key            | Description                                                              |
 |-----------------|--------------------------------------------------------------------------|
-| **Definition**  | Application of LLM                                                      |
-| **Purpose**     | Respond to human input in a way that mimics natural human conversation  |
+| **Definition**  | Computer program designed to respond to input in a way that mimics natural human conversation            |
+| **Purpose**     | Solve problems, provide assistance, connect to other resources  |
 | **Examples**    | [ChatGPT](https://chatgpt.com/), [Mercari's Merchat AI](https://www.mercari.com/merchat/?msockid=0763cb8a3f3a6eeb1306df5d3e176fcf), [Ada Health's health manager](https://ada.com/app/)                                            |
 | **Key features**| Traditional chat room/message interface, un/structured input options    |
-| **Use case**    | Customer service, marketing, sales                                       |
+| **Use case**    | Customer service, appointment scheduling, conversational partner                                       |
 
 ![Merchat AI](./img/merchatai.png "Merchat AI")
 
